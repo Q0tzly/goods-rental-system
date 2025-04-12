@@ -84,3 +84,9 @@ required_fields:
 - Automatically runs git add, commit, and push after file updates
 - Pushes changes to a local GitLab server for centralized and dispersion version control
 - Tags and branches can be used to track and restore specific periods
+
+---
+
+## Notes
+
+- Initial deployment is intended for full offline use, with no external dependencies
