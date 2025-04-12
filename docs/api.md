@@ -1,4 +1,4 @@
-# API Specification
+# API Specification - Version 0.1.0
 
 ## Base URL
 
